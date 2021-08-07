@@ -4,6 +4,6 @@
 
 #### Github Stats
 
-![caffeines's github stats](https://github-readme-stats.vercel.app/api?username=caffeines&count_private=true&theme=tokyonight&hide=contribs,prs)
+![caffeines's github stats](https://github-readme-stats.vercel.app/api?username=caffeines&count_private=true&theme=tokyonight&hide=)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=caffeines.caffeines)
