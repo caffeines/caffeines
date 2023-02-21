@@ -3,34 +3,52 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caffeines&label=Profile%20views&color=0e75b6&style=flat" alt="caffeines" /> </p>
 
-- 🔭 I’m currently working on **EdTech and HealthTech**
+## 👨🏻‍💻 About Me
 
-- 🌱 I’m currently learning **Kubernetes, React Native**
+```json
+{
+  "name": "Abu Sadat Md. Sayem",
+  "role": "Sr. Software Engineer",
+  "portfolio": "https://sadat.me",
+  "company": "Durbin Labs Ltd.",
+  "location": "Dhaka, Bangladesh",
+  "education": "B.Sc. in Computer Science and Engineering",
+  "languages": ["English", "Bangla"],
+  "interests": ["EdTech", "HealthTech", "Open Source"],
+  "learning": ["Kubernetes", "React Native"],
+  "blog": "https://blog.sadat.me",
+  "email": "sadat.talks[at]gmail[dot]com",
+  "techInterests": ["Web", "Cross-platform", "Cloud", "System Design"]
+}
+```
 
-- 👨‍💻 My portfolio [sadat.me](sadat.me)
+## 📫 Connect with me
+<br/>
+<a href="https://linkedin.com/in/sadatsayem" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/caffeines" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@caffeines" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/9313299" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
 
-- 📝 I regularly write articles on [blog.sadat.me](blog.sadat.me)
+<a href="https://medium.com/@caffeines" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+  
 
-- 💬 Ask me about **Go, Node.js, MongoDB**
+<br/> 
 
-- 📫 How to reach me **sadat.talks@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Automatically Backup a MongoDB Database to DropBox using Github action](https://blog.sadat.me/automatically-backup-a-mongodb-database-to-dropbox-using-github-action)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sadatsayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadatsayem" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:9313299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:9313299" height="30" width="40" /></a>
-<a href="https://hashnode.com/@caffeines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@caffeines" height="30" width="40" /></a>
-<a href="/https://blog.sadat.me/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.sadat.me/rss.xml" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ My Skills
+<br/>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![badge-node](https://img.shields.io/badge/Node.js-black?logo=node.js&style=for-the-badge&color=21223e)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -52,6 +70,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![badge-docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&color=21223e)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
@@ -60,8 +79,27 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![badge-mac](https://img.shields.io/badge/MacOS-black?logo=apple&style=for-the-badge&color=21223e)
+![badge-shell](https://img.shields.io/badge/ZSH-black?style=for-the-badge&logo=gnu-bash&color=21223e)
+![badge-vscode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code&color=21223e&logoColor=blue)
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caffeines&show_icons=true&locale=en&layout=compact" alt="caffeines" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caffeines&show_icons=true&locale=en" alt="caffeines" /></p>
+## &#x1f4c8; Stats
+<div align="center" >
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeines&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=caffeines&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+</div>
+
+<br/>
+
+## 📝 Blog posts
+<br/>
+
+<!-- BLOG-POST-LIST:START -->
+- [Automatically Backup a MongoDB Database to DropBox using Github action](https://blog.sadat.me/automatically-backup-a-mongodb-database-to-dropbox-using-github-action)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+<hr/>
