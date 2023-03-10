@@ -27,6 +27,9 @@
 <a href="https://github.com/caffeines" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://youtube.com/@prepself" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23E0234E.svg?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
 <a href="https://hashnode.com/@caffeines" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
