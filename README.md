@@ -10,12 +10,12 @@
   "name": "Abu Sadat Md. Sayem",
   "role": "Sr. Software Engineer",
   "portfolio": "https://sadat.me",
-  "company": "Durbin Labs Ltd.",
-  "interests": ["EdTech", "HealthTech", "Open Source"],
+  "company": "bKash Limited.",
+  "interests": ["EdTech", "HealthTech", "Fintech", "Open Source"],
   "learning": ["Kubernetes", "React Native"],
   "blog": "https://blog.sadat.me",
   "email": "sadat.talks[at]gmail[dot]com",
-  "techInterests": ["Web", "Cross-platform", "Cloud", "System Design"]
+  "techInterests": ["Web", "Backend Engineering", "Database", "Distributed System", "Cloud", "System Design"]
 }
 ```
 
