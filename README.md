@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Abu Sadat Md. Sayem</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caffeines&label=Profile%20views&color=0e75b6&style=flat" alt="caffeines" /> </p>
 
 ## 👨🏻‍💻 About Me
-
 ```json
 {
   "name": "Abu Sadat Md. Sayem",
@@ -29,9 +27,6 @@
 </a>
 <a href="https://youtube.com/@prepself" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23E0234E.svg?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@caffeines" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/9313299" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -94,15 +89,5 @@
 
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=caffeines&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </div>
-
-<br/>
-
-## 📝 Blog posts
-<br/>
-
-<!-- BLOG-POST-LIST:START -->
-- [Automatically Backup a MongoDB Database to DropBox using Github action](https://caffeines.hashnode.dev/automatically-backup-a-mongodb-database-to-dropbox-using-github-action)
-<!-- BLOG-POST-LIST:END -->
-
 <br/>
 <hr/>
