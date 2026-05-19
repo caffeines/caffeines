@@ -82,12 +82,3 @@
 ![badge-vscode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code&color=21223e&logoColor=blue)
 
 <br/>
-
-## &#x1f4c8; Stats
-<div align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeines&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=caffeines&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
-</div>
-<br/>
-<hr/>
