@@ -6,10 +6,10 @@
 ```json
 {
   "name": "Abu Sadat Md. Sayem",
-  "role": "Sr. Software Engineer",
+  "role": "Assistant Lead Engineer, Software Development, Research & Engineering",
   "portfolio": "https://sadat.me",
   "company": "bKash Limited.",
-  "interests": ["EdTech", "HealthTech", "Fintech", "Open Source"],
+  "interests": ["Fintech", "EdTech", "HealthTech", "Open Source"],
   "learning": ["Kubernetes", "Next.js"],
   "blog": "https://blog.sadat.me",
   "email": "sadat.talks[at]gmail[dot]com",
